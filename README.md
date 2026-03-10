@@ -8,7 +8,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ## Overview
 Here's an overview of features that i learnd in this course:
 
-Styling: The different ways to style your application in Next.js.
+Styling: The different ways to style your application in Next.js. <br />
 Optimizations: How to optimize images, links, and fonts.
 Routing: How to create nested layouts and pages using file-system routing.
 Data Fetching: How to set up a Postgres database on Vercel, and best practices for fetching and streaming.
